@@ -77,3 +77,6 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 node.js, express, handlebars, mySQL, sequelize, dotenv
 
 ![Screenshot 2022-05-29 012243](https://user-images.githubusercontent.com/94206317/170853577-a46cf48d-4323-440a-9ffc-217b7a296a8f.png)
+
+## DEPLOYED
+https://vast-thicket-05073.herokuapp.com/
